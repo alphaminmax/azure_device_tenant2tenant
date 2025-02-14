@@ -1,0 +1,14 @@
+#All info filed out here should not have and opening or closing brackets they should have just the information nothing more or less  
+#The Onedrive Company name can be found In file explorer at C:\Users\%username%\OneDrive - Consoto Corp
+#source Tenent info
+sourceclientId = 5640****************************c785
+sourceclientSecret = M938********************************tcfL
+sourcetenantid = 0c6c****************************187a
+sourcetenantdomain = sourcetenent.onmicrosoft.com
+sourceOneDriveCompanyName = Consoto Corp
+
+#Target Tenent info
+targetclientId = 18d7**************************ccgf
+targetclientSecret = dlN8********************************-bmI
+targettenantid = 19d7****************************39ab
+targettenantdomain = targettenant.onmicrosoft.com
